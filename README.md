@@ -6,4 +6,5 @@ The architecture follows the classical FSMD (Finite State Machine with Datapath)
 
 The design was modeled in VHDL, verified through simulation in ModelSim, and synthesized as a hardware-oriented implementation. This project demonstrates fundamental RTL design concepts including algorithm-to-hardware transformation, FSMD modeling, datapath/controller partitioning, FSM design, and functional verification.
 
+The design is based on this document: 
 https://dayhocstem.com/blog/2020/04/ma-nguon-vhdl-muc-rtl-mach-lsi-tim-uoc-so-chung-lon-nhat-cua-hai-so.html
